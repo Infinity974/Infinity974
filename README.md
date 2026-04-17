@@ -1,3 +1,4 @@
+<img width="3840" height="2160" alt="demon-slayer-about-future-season-v0-oelohnbil67d1" src="https://github.com/user-attachments/assets/505c2786-c4b7-4f62-bcf6-afc46dbe35e3" />
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠️ Mes Outils & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker)](https://skillicons.dev)
+
+### 📊 Mes Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Infinity&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
+</div>
