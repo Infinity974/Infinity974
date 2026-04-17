@@ -1,5 +1,5 @@
-![Uploading demon-slayer-about-future-season-v0-oelohnbil67d1.png…]()
-<img width="1500" height="500" alt="demon-slayer-about-future-season-v0-oelohnbil67d1" src="https://github.com/user-attachments/assets/8e215e00-26a9-4264-8931-01254452933c" />
+<img width="1500" height="500" alt="banniere" src="https://github.com/user-attachments/assets/c2ca98e5-bc7f-4690-9f36-9dd8ce43a59b" />
+
 <div align="center">
 
 
