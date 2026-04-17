@@ -1,10 +1,10 @@
 <div align="center">
 
-![Banner](https://github.com/user-attachments/assets/TON_LIEN_IMAGE_ACTUEL)
+![Bannière](URL_DE_TON_IMAGE_ICI)
 
 # 👋 Salut, je suis Infinity
 
-**Développeur passionné | Créateur de solutions web**
+**Étudiant en Informatique | Développeur & Passionné d'IA**
 
 </div>
 
@@ -12,26 +12,29 @@
 
 ## 👨‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur **[Nom de ton projet actuel ou "mon Portfolio"]**
-- 🌱 J'apprends en ce moment **[Ex: TypeScript, Next.js, ou autre]**
-- 🎯 Mon objectif : **[Ex: Devenir un expert Full-Stack / Créer des applications utiles]**
-- ⚡ Fun fact : **[Ex: Je code mieux avec de la musique d'anime en fond]**
+- 🎓 Étudiant en Licence d'Informatique à l'**Université de la Réunion**.
+- 🧠 Profondément intéressé par l'**Intelligence Artificielle** (IA générative, Prompt engineering).
+- 🤝 J'aime travailler sur des projets solos comme en groupe, avec une réelle volonté de **transmettre le savoir**.
+- 🚀 Toujours à la recherche de nouveaux défis pour concevoir des solutions innovantes et impactantes.
 
 ---
 
 ## 🛠️ Mes Outils & Technologies
 
+**Langages de programmation :**
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,ocaml" alt="My Skills" />
   </a>
 </div>
+
+<br>
+
+**Spécialités IA :** `IA Générative` • `Prompt Engineering`
 
 ---
 
 ## 🚀 Mes Projets Phares
-
-Voici quelques-uns de mes projets. N'hésite pas à y jeter un œil !
 
 <div align="center">
   <a href="https://github.com/Infinity974/undercover">
@@ -42,7 +45,7 @@ Voici quelques-uns de mes projets. N'hésite pas à y jeter un œil !
   </a>
 </div>
 
-> **💡 Note :** Retrouve tous mes autres projets dans l'onglet [Repositories](https://github.com/Infinity974?tab=repositories).
+> 💡 *Note : Retrouve tous mes autres projets dans l'onglet [Repositories](https://github.com/Infinity974?tab=repositories).*
 
 ---
 
@@ -57,20 +60,14 @@ Voici quelques-uns de mes projets. N'hésite pas à y jeter un œil !
 
 ## 🌐 Me Contacter & Mon Portfolio
 
-Tu veux en savoir plus sur mon parcours, voir mes créations en détail ou me contacter pour un projet ?
-
 <div align="center">
-
   <a href="https://TON-SITE-WEB.com">
-    <img src="https://img.shields.io/badge/Mon_Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Mon_Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
-
   <a href="mailto:ton.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://linkedin.com/in/TON-PROFIL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 </div>
