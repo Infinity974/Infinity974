@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="demon-slayer-about-future-season-v0-oelohnbil67d1" src="https://github.com/user-attachments/assets/8e215e00-26a9-4264-8931-01254452933c" />
+<img width="1840" height="1160" alt="demon-slayer-about-future-season-v0-oelohnbil67d1" src="https://github.com/user-attachments/assets/8e215e00-26a9-4264-8931-01254452933c" />
 <div align="center">
 
 ![Bannière](![Uploading demon-slayer-about-future-season-v0-oelohnbil67d1.png…]())
