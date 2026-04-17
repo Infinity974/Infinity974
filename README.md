@@ -1,63 +1,75 @@
 <div align="center">
 
-![Banner](URL_DE_TON_IMAGE)
+![Banner](https://github.com/user-attachments/assets/TON_LIEN_IMAGE_ACTUEL)
 
-# Hi, I'm Infinity 👋
-**Computer Science Student & Software Developer**
+# 👋 Salut, je suis Infinity
+
+**Développeur passionné | Créateur de solutions web**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-> *"Passionate about building impactful solutions and exploring the future of AI."*
-
-- 🎓 Undergraduate Computer Science student at the **University of Reunion**.
-- 🧠 Deeply interested in **Artificial Intelligence**, solo deep-dives, and collaborative team projects.
-- 💡 Always eager to explore new technologies, share knowledge, and write clean, efficient code.
-
----
-
-## 🛠️ Technical Arsenal
-
-### 🔹 Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
-
-### 🔹 Artificial Intelligence
-![Generative AI](https://img.shields.io/badge/Generative_AI-252525?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-252525?style=for-the-badge&logo=chatbot&logoColor=white)
+- 🔭 Je travaille actuellement sur **[Nom de ton projet actuel ou "mon Portfolio"]**
+- 🌱 J'apprends en ce moment **[Ex: TypeScript, Next.js, ou autre]**
+- 🎯 Mon objectif : **[Ex: Devenir un expert Full-Stack / Créer des applications utiles]**
+- ⚡ Fun fact : **[Ex: Je code mieux avec de la musique d'anime en fond]**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Mes Outils & Technologies
 
-| 📂 Project | 📝 Description | ⚙️ Technologies |
-| :--- | :--- | :--- |
-| **[undercover](https://github.com/Infinity974/undercover)** | A brief, one-sentence description of what this project does. | `HTML` `CSS` |
-| **[Mamie-Moule-Maki](https://github.com/Infinity974/Mamie-Moule-Maki)** | Another short description explaining the goal of the project. | `HTML` `JS` |
-
-> *🔗 Explore the rest of my work in the [Repositories](https://github.com/Infinity974?tab=repositories) section.*
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker" alt="My Skills" />
+  </a>
+</div>
 
 ---
 
-## 🌐 Connect & Portfolio
+## 🚀 Mes Projets Phares
+
+Voici quelques-uns de mes projets. N'hésite pas à y jeter un œil !
+
+<div align="center">
+  <a href="https://github.com/Infinity974/undercover">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinity974&repo=undercover&theme=tokyonight&border_radius=10" width="48%" />
+  </a>
+  <a href="https://github.com/Infinity974/Mamie-Moule-Maki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinity974&repo=Mamie-Moule-Maki&theme=tokyonight&border_radius=10" width="48%" />
+  </a>
+</div>
+
+> **💡 Note :** Retrouve tous mes autres projets dans l'onglet [Repositories](https://github.com/Infinity974?tab=repositories).
+
+---
+
+## 📊 Mes Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Infinity974&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity974&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
+</div>
+
+---
+
+## 🌐 Me Contacter & Mon Portfolio
+
+Tu veux en savoir plus sur mon parcours, voir mes créations en détail ou me contacter pour un projet ?
 
 <div align="center">
 
-  <a href="https://YOUR-WEBSITE.com">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  <a href="https://TON-SITE-WEB.com">
+    <img src="https://img.shields.io/badge/Mon_Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+
+  <a href="mailto:ton.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-PROFILE">
+
+  <a href="https://linkedin.com/in/TON-PROFIL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
