@@ -41,8 +41,8 @@
   <a href="https://github.com/Infinity974/undercover">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinity974&repo=undercover&theme=tokyonight&border_radius=10" width="48%" />
   </a>
-  <a href="https://github.com/Infinity974/Mamie-Moule-Maki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinity974&repo=Mamie-Moule-Maki&theme=tokyonight&border_radius=10" width="48%" />
+  <a href="https://github.com/Infinity974/topten">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinity974&repo=topten&theme=tokyonight&border_radius=10" width="48%" />
   </a>
 </div>
 
